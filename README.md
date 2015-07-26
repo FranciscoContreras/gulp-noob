@@ -28,7 +28,7 @@ Once you have that installed, the fun begins.
 Just press enter all the way through, until you can input a command 
 
 **Create the *bower.json* file**   
-`bower.init`  
+`bower init`  
 Do the same as before, press enter until you can input a command.  
 
 **Now install gulp**
@@ -36,14 +36,14 @@ Do the same as before, press enter until you can input a command.
 
 `--save-dev` installs the tool/s in your directory.  
 
-**Insstall browser-sync**
+**Install browser-sync**
 `npm install browser-sync --save-dev`
 
 ### This is where the tutorial falls short. 
 Now just download all my files and or clone the repo into the directory and you should be almost done.   
   
 **Run the task*  
-`gulp`
+`gulp`  
 You're done, for now :)  
   
 
