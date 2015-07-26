@@ -31,12 +31,12 @@ Just press enter all the way through, until you can input a command
 `bower init`  
 Do the same as before, press enter until you can input a command.  
 
-**Now install gulp**
+**Now install gulp**  
 `npm install gulp --save-dev`  
 
 `--save-dev` installs the tool/s in your directory.  
 
-**Install browser-sync**
+**Install browser-sync**  
 `npm install browser-sync --save-dev`
 
 ### This is where the tutorial falls short. 
